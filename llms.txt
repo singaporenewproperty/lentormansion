@@ -1,0 +1,9 @@
+# Lentor Mansion
+
+> Lentor Mansion — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/lentormansion/
+
+## Pages
+
+- [Lentor Mansion](https://singaporenewproperty.github.io/lentormansion/): Lentor Mansion property information.
